@@ -25,7 +25,7 @@
 			}
 			
 			.footer{
-				background: url(images/F.jpg) no-repeat;
+				background: url(images/footer.png) no-repeat;
 				background-size: 120%;
 				margin: 0px;
 				padding: 0px;
@@ -46,6 +46,17 @@
 				padding: 0px;
 				display: block;
 			}
+			
+			.leftimg {
+				float:left; /* Выравнивание по левому краю */
+				margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
+			   }
+			.rightimg  {
+				float: right; /* Выравнивание по правому краю  */ 
+				margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
+			   }
+			
+
 
 
 		</style>
@@ -59,40 +70,67 @@
 
 
 		<div class="menu">
-			<a href="https://www.w3schools.com/">Home</a>
-			<a href="https://www.w3schools.com/">About</a>
-			<a href="https://www.w3schools.com/">Toys</a>
-			<a href="https://www.w3schools.com/" style="color: #ffcFFF;">Accessories</a>
+			<a href="./index.html">Home</a>
+			<a href="./about.html">About</a>
+			<a href="./toys.html" style="color: #ffcFFF;">Toys</a>
+			<a href="./accessories.html">Accessories</a>
 		</div>
 
 		<div class="bottom">
-			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
-				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/pic3.jpg" style="height: 20%; width: 20%; object-fit: contain; display:block"></img>
+			<a href="./mari.html"> 
+				<font color="000000"><h1 style="font-size:150%; text-align:center;">This is a heading </h1></font>
+					<font color="000000"><p><img src="images/mari1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="leftimg">
+					 Вчера . <br>В результате эффективной обороны . <br>Среди личного состава 
+					 потерь нет. . <br>В результате операции были захвачены элементы внеземной культуры, которые 
+					 переданы аналитической группе.</p>
+
 			</a>
-				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
+			
+				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading  </h1></font>
 			
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
-				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/pic2.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
+				<font color="000000"><h1 style="font-size:150%; text-align:center;">This is a heading </h1></font>
+					<font color="000000"><p><img src="images/trio1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="rightimg">
+					 Вчера во время проведения разведоперации наша группа подверглась нападению неизвестного 
+					 противника в камуфляжной форме Алиенов. В результате эффективной обороны и стремительной 
+					 контратаки многочисленная группа боевиков была смята и отброшена. Среди личного состава 
+					 потерь нет. Бойцы разведгруппы проявили недюжие навыки владения оружием. Особо отличился 
+					 в бою взводный Кудряшев&nbsp;М.А., грамотно использовавший человеческие ресурсы 
+					 своего взвода. В результате операции были захвачены элементы внеземной культуры, которые 
+					 переданы аналитической группе.</p>
 			</a>
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
 
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
-				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/pic1.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
+				<font color="000000"><h1 style="font-size:150%; text-align:center;">This is a heading </h1></font>
+					<font color="000000"><p><img src="images/trio1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="leftimg">
+					 Вчера во время проведения разведоперации наша группа подверглась нападению неизвестного 
+					 противника в камуфляжной форме Алиенов. В результате эффективной обороны и стремительной 
+					 контратаки многочисленная группа боевиков была смята и отброшена. Среди личного состава 
+					 потерь нет. Бойцы разведгруппы проявили недюжие навыки владения оружием. Особо отличился 
+					 в бою взводный Кудряшев&nbsp;М.А., грамотно использовавший человеческие ресурсы 
+					 своего взвода. В результате операции были захвачены элементы внеземной культуры, которые 
+					 переданы аналитической группе.</p>
+				
 			</a>
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>	
 
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
-				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/pic1.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
+				<font color="000000"><h1 style="font-size:150%; text-align:center;">This is a heading </h1></font>
+					<font color="000000"><p><img src="images/trio1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="rightimg">
+					 Вчера во время проведения разведоперации наша группа подверглась нападению неизвестного 
+					 противника в камуфляжной форме Алиенов. В результате эффективной обороны и стремительной 
+					 контратаки многочисленная группа боевиков была смята и отброшена. Среди личного состава 
+					 потерь нет. Бойцы разведгруппы проявили недюжие навыки владения оружием. Особо отличился 
+					 в бою взводный Кудряшев&nbsp;М.А., грамотно использовавший человеческие ресурсы 
+					 своего взвода. В результате операции были захвачены элементы внеземной культуры, которые 
+					 переданы аналитической группе.</p>
 			</a>			
 			
 		</div>		
 
 		<div class="footer">
-			<img src="images/F.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
+			<img src="images/footer.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
 		</div>
 	</body>
 </html>

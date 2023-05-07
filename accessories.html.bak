@@ -72,8 +72,8 @@
 		<div class="menu">
 			<a href="./index.html">Home</a>
 			<a href="./about.html">About</a>
-			<a href="./toys.html" style="color: #ffcFFF;">Toys</a>
-			<a href="./accessories.html">Accessories</a>
+			<a href="./toys.html">Toys</a>
+			<a href="./accessories.html" style="color: #ffcFFF;">Accessories</a>
 		</div>
 
 		<div class="bottom">

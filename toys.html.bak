@@ -17,8 +17,8 @@
 			}
 			a {
     			font-size: 2vw;
-    			font-family: "My Custom Font",Viner Hand ITC;
-    			color: #ffca61;
+    			font-family: Caveat-Bold; /* Гарнитура шрифта */
+				color: #ffca61;
   				text-decoration: none;
   				text-indent: 20px; 
   				display: inline-block;
@@ -56,6 +56,10 @@
 				margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
 			   }
 			
+			@font-face {
+				font-family: Caveat-Bold; /* Гарнитура шрифта */
+				src: url("./Caveat-Bold.ttf"); /* Путь к файлу со шрифтом */
+			   }
 
 
 
@@ -83,8 +87,9 @@
 					 Вчера . <br>В результате эффективной обороны . <br>Среди личного состава 
 					 потерь нет. . <br>В результате операции были захвачены элементы внеземной культуры, которые 
 					 переданы аналитической группе.</p>
-
 			</a>
+			
+			
 			
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading  </h1></font>
 			
@@ -99,6 +104,14 @@
 					 своего взвода. В результате операции были захвачены элементы внеземной культуры, которые 
 					 переданы аналитической группе.</p>
 			</a>
+			
+					<h1 style="font-size:150%;">
+					 <p>Вчера . <br>В результате эффективной обороны . <br>Среди личного состава 
+					 потерь нет. . <br>В результате операции были захвачены элементы внеземной культуры, которые 
+					 переданы аналитической группе.</p></h1>
+			
+			
+			
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
 
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 

@@ -25,7 +25,7 @@
 			}
 			
 			.footer{
-				background: url(images/footer.png) no-repeat;
+				background: url(images/F.jpg) no-repeat;
 				background-size: 120%;
 				margin: 0px;
 				padding: 0px;
@@ -59,40 +59,40 @@
 
 
 		<div class="menu">
-			<a href="./index.html">Home</a>
-			<a href="./about.html">About</a>
-			<a href="./toys.html">Toys</a>
-			<a href="./accessories.html" style="color: #ffcFFF;">Accessories</a>
+			<a href="https://www.w3schools.com/">Home</a>
+			<a href="https://www.w3schools.com/">About</a>
+			<a href="https://www.w3schools.com/">Toys</a>
+			<a href="https://www.w3schools.com/" style="color: #ffcFFF;">Accessories</a>
 		</div>
 
 		<div class="bottom">
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/trio1.jpg" style="height: 20%; width: 20%; object-fit: contain; display:block"></img>
+				<img src="images/pic3.jpg" style="height: 20%; width: 20%; object-fit: contain; display:block"></img>
 			</a>
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
 			
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/mari1.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
+				<img src="images/pic2.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
 			</a>
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
 
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/pus1.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
+				<img src="images/pic1.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
 			</a>
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>	
 
 			<a href="https://www.old-games.com/download/2496/mcdonald-land"> 
 				<font color="000000"><h1 style="font-size:100%; text-align:center;">This is a heading </h1></font>
-				<img src="images/trio1.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
+				<img src="images/pic1.jpg" style='height: 20%; width: 20%; object-fit: contain; display:block' align="right: 200px"></img>
 			</a>			
 			
 		</div>		
 
 		<div class="footer">
-			<img src="images/footer.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
+			<img src="images/F.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
 		</div>
 	</body>
 </html>

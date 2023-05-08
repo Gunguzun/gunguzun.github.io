@@ -69,10 +69,10 @@
 
 
 		<div class="menu">
-			<a href="./index.html" style="color: #ffcFFF;">Home</a>
-			<a href="./about.html">About</a>
-			<a href="./toys.html">Toys</a>
-			<a href="./accessories.html">Accessories</a>
+			<a href="./index.html" style="color: #ffcFFF;">Главная</a>
+			<a href="./about.html">О созданиях</a>
+			<a href="./toys.html">Игрушки</a>
+			<a href="./accessories.html">Аксессуары</a>
 		</div>
 
 		<div class="bottom">

@@ -136,9 +136,10 @@
 					 переданы аналитической группе.</p>
 			</a>			
 			
-			<a href="./mik.html"> 
+			
+			<a href="./stepa.html"> 
 				<font color="000000"><h1 style="font-size:150%; text-align:center;">This is a heading </h1></font>
-					<font color="000000"><p><img src="images/mik1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="rightimg">
+					<font color="000000"><p><img src="images/stepa1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="leftimg">
 					 Вчера во время проведения разведоперации наша группа подверглась нападению неизвестного 
 					 противника в камуфляжной форме Алиенов. В результате эффективной обороны и стремительной 
 					 контратаки многочисленная группа боевиков была смята и отброшена. Среди личного состава 
@@ -147,10 +148,10 @@
 					 своего взвода. В результате операции были захвачены элементы внеземной культуры, которые 
 					 переданы аналитической группе.</p>
 			</a>
-			
-			<a href="./stepa.html"> 
+
+			<a href="./mik.html"> 
 				<font color="000000"><h1 style="font-size:150%; text-align:center;">This is a heading </h1></font>
-					<font color="000000"><p><img src="images/stepa1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="rightimg">
+					<font color="000000"><p><img src="images/mik1.jpg"; style="height: 30%; width: 30%; object-fit: contain; display:block" class="rightimg">
 					 Вчера во время проведения разведоперации наша группа подверглась нападению неизвестного 
 					 противника в камуфляжной форме Алиенов. В результате эффективной обороны и стремительной 
 					 контратаки многочисленная группа боевиков была смята и отброшена. Среди личного состава 

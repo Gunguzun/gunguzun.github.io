@@ -15,10 +15,11 @@
 				margin: 0px;
 				padding: 0px;
 			}
+			
 			a {
     			font-size: 2vw;
-    			font-family: "My Custom Font",Viner Hand ITC;
-    			color: #ffca61;
+    			font-family: Caveat-Bold; /* Гарнитура шрифта */
+				color: #ffca61;
   				text-decoration: none;
   				text-indent: 20px; 
   				display: inline-block;
@@ -45,6 +46,11 @@
 				padding: 0px;
 				display: block;
 			}
+			
+			@font-face {
+				font-family: Caveat-Bold; /* Гарнитура шрифта */
+				src: url("./Caveat-Bold.ttf"); /* Путь к файлу со шрифтом */
+			   }			
 
 
 		</style>
@@ -66,13 +72,13 @@
 
 		<div class="bottom">
 		<a>
-			<font color="000000"><h1 style="font-size:300%; text-align:center; font-family:Viner Hand ITC;">earrings: </h1>
+			<font color="000000"><h1 style="font-size:200%; text-align:center;">Серьги-пусеты (гвоздики): </h1>
 
-			<font color="000000"><p><img src="images/l_earrings.png"; style="height: 80%; width: 80%; object-fit: contain; display:block">
-			<h1 style="font-size:100%; text-align:center;font-family:Viner Hand ITC;">describing : </h1>
-					 Вчера . <br>В результате эффективной обороны . <br>Среди личного состава 
-					 потерь нет. . <br>В результате операции были захвачены элементы внеземной культуры, которые 
-					 переданы аналитической группе.</p>
+			<font color="000000"><p><img src="images/s_earrings.png"; style="height: 80%; width: 80%; object-fit: contain; display:block">
+			<h1 style="font-size:130%; text-align:center;">
+					 Лето на ладони – серьги-незабудки с золотистыми пчёлками. 
+					 Цветы связаны из супертонкого, белого ириса и окрашены акварелью.</p></h1>
+					 <font color="000000"><h1 style="font-size:100%; text-align:right;"><p>Дизайнер: Ira Shu.</p></h1>
 		</a>
 			
 			

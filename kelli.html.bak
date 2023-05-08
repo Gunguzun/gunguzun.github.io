@@ -64,21 +64,24 @@
 
 
 		<div class="menu">
-			<a href="./index.html">Home</a>
-			<a href="./about.html">About</a>
-			<a href="./toys.html"style="color: #ffcFFF;">Toys</a>
-			<a href="./accessories.html">Accessories</a>
+			<a href="./index.html">Главная</a>
+			<a href="./about.html">О созданиях</a>
+			<a href="./toys.html"style="color: #ffcFFF;">Игрушки</a>
+			<a href="./accessories.html">Аксессуары</a>
 		</div>
 
 		<div class="bottom">
 		<a>
-			<font color="000000"><h1 style="font-size:200%; text-align:center;">Мэри: </h1>
+			<font color="000000"><h1 style="font-size:300%; text-align:center; font-family:Viner Hand ITC;">Собачка Келли: </h1>
 
-			<font color="000000"><p><img src="images/mari.png"; style="height: 80%; width: 80%; object-fit: contain; display:block">
+			<font color="000000"><p><img src="images/kelli.png"; style="height: 80%; width: 80%; object-fit: contain; display:block">
 			<h1 style="font-size:130%; text-align:center;">
-					Представляю ёжика Мэрилин, очень милая, но со своим порой колючим характером. Мэрилин самая первая милашка, появившаяся в моей скромной коллекции. 
-					<br>Мэри изготовлена из шерстяной пряжи, ее платье связано на спицах шерстяной пряжей и украшено паетками, ботиночка связаны из хлопка, 
-					а бант из акриловой пряжи.</p></h1>
+					Только взгляните на эту обворожительную Келли! Она очень милая, умная, но со своим особенным характером. 
+					Келли очень любит свой розовый комбинезон с красным вышитым сердечком и красный бант на её головке. 
+					А ещё Келли большая любительница кофе и прогулок по лесу, а в её саду растёт апельсиновое дерево, под которым она часто проводит время. 
+					Забавно, но от её мордашки пахнет кофе, апельсинами и древесной корой.
+					<br>Собачка изготовлена из мягкой плюшевой пряжи. Её ручки, ножки и головка двигаются, позволяя ей принимать любые позы. 
+						А комбинезон связан из полушерстяной мягкой пряжи.</p></h1>
 					 <font color="000000"><h1 style="font-size:100%; text-align:right;"><p>Дизайнер: Ольга Гаевская.</p></h1>
 		</a>
 			

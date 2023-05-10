@@ -32,7 +32,7 @@
 			}
 			
 			img{
-				 background: url(images/wwall.png) no-repeat;
+
  				 display: block;
   				 margin-left: auto;
   				 margin-right: auto;
@@ -50,6 +50,49 @@
 				font-family: Caveat-Bold; /* Гарнитура шрифта */
 				src: url("./Caveat-Bold.ttf"); /* Путь к файлу со шрифтом */
 			   }
+
+
+
+			#slideout {
+				width: 50px;
+				height: 50px;
+				position: fixed;
+				-webkit-border-radius: 50%;
+				-moz-border-radius: 50%;
+				border-radius: 50%;
+				bottom: 100px;
+				right: 50px; 
+				padding: 9px;
+				text-align: center;
+				background: #ffcFFF;
+				-webkit-transition-duration: 0.0s;
+				-moz-transition-duration: 0.0s;
+				-o-transition-duration: 0.0s;
+				transition-duration: 0.0s;
+			}
+			#slideout_inner {
+				position: fixed;
+				bottom: 100px;
+				right: -200px;
+				background: rgb(1,1,1,0.1);
+				width: 190px;
+				height: 50px;
+				padding: 5px;
+				-webkit-transition-duration: 0.0s;
+				-moz-transition-duration: 0.0s;
+				-o-transition-duration: 0.0s;
+				transition-duration: 0.0s;
+				text-align: left;
+				-webkit-border-radius: 25px 0 0 25px;
+				-moz-border-radius: 25px 0 0 25px;
+				border-radius: 25px 0 0 25px;
+			}
+		 
+			#slideout:hover {
+				right: 200px;
+			}
+			#slideout:hover #slideout_inner {
+				right: 0;
 
 
 
@@ -85,6 +128,26 @@
 			
 			
 		</div>		
+
+
+
+
+		<div id="slideout">
+				<img src="./images/contact.png" style='height: 150%; width: 150%; display:block'/>
+				<div id="slideout_inner">
+					<form>
+						<a href="https://vk.com/i_spaws"> 
+							<img src="./images/vk.png" style='height: 30%; width: 30%; display:block' alt="СоцСеть1" />
+						</a>
+						<a href="https://wa.me/79961043304"> 
+							<img src="./images/whatsapp.png" style='height: 30%; width: 30%; display:block' alt="СоцСеть1" />
+						</a>
+					</form>
+				</div>
+		</div>
+
+
+
 
 		<div class="footer">
 			<img src="images/footer.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>

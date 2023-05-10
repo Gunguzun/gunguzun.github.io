@@ -39,8 +39,8 @@
   				 width: 50%;
 			}
       		.bottom{
-				background: url(images/wwall.png) repeat-x;
-				background: url(images/wwall.png) repeat-x;
+				background: url(images/wwall.png) no-repeat;
+				background: url(images/wwall.png) no-repeat;
 				background-size: 120%;
 				margin: 0px;
 				padding: 0px;

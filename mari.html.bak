@@ -32,7 +32,7 @@
 			}
 			
 			img{
-				 background: url(images/wwall.png) no-repeat;
+
  				 display: block;
   				 margin-left: auto;
   				 margin-right: auto;

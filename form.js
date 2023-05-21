@@ -1,2 +1,0 @@
-﻿<script src="https://yastatic.net/s3/frontend/forms/_/embed.js"></script>
-<iframe src="https://forms.yandex.ru/cloud/6469ed3690fa7b2291af5cc9/?iframe=1" frameborder="0" name="ya-form-6469ed3690fa7b2291af5cc9" width="650"></iframe>

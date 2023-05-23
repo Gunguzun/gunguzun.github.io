@@ -4,32 +4,15 @@
 
 	<head>
 		<title>Leprechaun</title>
+		<link rel="icon" href="images/faviconl.ico"><!-- 32×32 -->
 
-		<link rel="apple-touch-icon" sizes="57x57" href="./images/favicon/apple-icon-57x57.png">
-		<link rel="apple-touch-icon" sizes="60x60" href="./images/favicon/apple-icon-60x60.png">
-		<link rel="apple-touch-icon" sizes="72x72" href="./images/favicon/apple-icon-72x72.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="./images/favicon/apple-icon-76x76.png">
-		<link rel="apple-touch-icon" sizes="114x114" href="./images/favicon/apple-icon-114x114.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="./images/favicon/apple-icon-120x120.png">
-		<link rel="apple-touch-icon" sizes="144x144" href="./images/favicon/apple-icon-144x144.png">
-		<link rel="apple-touch-icon" sizes="152x152" href="./images/favicon/apple-icon-152x152.png">
-		<link rel="apple-touch-icon" sizes="180x180" href="./images/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="./images/favicon/android-icon-192x192.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="96x96" href="./images/favicon/favicon-96x96.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="./images/favicon/favicon-16x16.png">
-		<link rel="manifest" href="./images/favicon/manifest.json">
-		<meta name="msapplication-TileColor" content="#ffffff">
-		<meta name="msapplication-TileImage" content="./images/favicon/ms-icon-144x144.png">
-		<meta name="theme-color" content="#ffffff">
-		
 		<style>
 			html, body { 
 				margin: 0px; 
 				padding: 0px;				
 			}
       			.menu{
-				background: url(./images/h2.jpg) no-repeat;
+				background: url(images/h2.jpg) no-repeat;
 				background-size: 120%;
 				margin: 0px;
 				padding: 0px;
@@ -44,7 +27,7 @@
 			}
 			
 			.footer{
-				background: url(./images/footer.png) no-repeat;
+				background: url(images/f.png) no-repeat;
 				background-size: 120%;
 				margin: 0px;
 				padding: 0px;
@@ -56,25 +39,31 @@
   				 margin-left: auto;
   				 margin-right: auto;
   				 width: 50%;
+				 		
+				 
 			}
       		.bottom{
-				background: url(./images/wwall.png) no-repeat;
+				background: url(images/wwall.png) no-repeat;
+				background: url(images/wwall.png) no-repeat;
 				background-size: 120%;
 				margin: 0px;
 				padding: 0px;
 				display: block;
 			}
 			
-			@font-face {
-				font-family: Caveat-Bold; /* Гарнитура шрифта */
-				src: url("./Caveat-Bold.ttf"); /* Путь к файлу со шрифтом */
-			   }
-			   
 			.leftimg {
 				float:left; /* Выравнивание по левому краю */
 				margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
 			   }
-
+			.rightimg  {
+				float: right; /* Выравнивание по правому краю  */ 
+				margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
+			   }
+			   
+			@font-face {
+				font-family: Caveat-Bold; /* Гарнитура шрифта */
+				src: url("./Caveat-Bold.ttf"); /* Путь к файлу со шрифтом */
+			   }			
 
 			#slideout {
 				width: 50px;
@@ -116,14 +105,11 @@
 			}
 			#slideout:hover #slideout_inner {
 				right: 0;
-			}
-
-
-			
 
 		</style>
 		
-	<meta name="description" content="Я занимаюсь изготовлением вязанных изделий, игрушек, аксессуаров. 
+		
+	<meta name="description" content="Я занимаюсь изготовлением  вязанных изделий, игрушек, аксессуаров. 
 		Разрабатываю дизайн изделий. Изготавливаю вязанные изделия на заказ.">	
 		
 	</head>
@@ -187,7 +173,7 @@
 		
 
 		<div class="footer">
-			<img src="./images/footer.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
+			<img src="./images/f.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
 		</div>
 	</body>
 </html>

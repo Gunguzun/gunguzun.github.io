@@ -39,8 +39,11 @@
   				 margin-left: auto;
   				 margin-right: auto;
   				 width: 50%;
+				 		
+				 
 			}
       		.bottom{
+				background: url(images/wwall.png) no-repeat;
 				background: url(images/wwall.png) no-repeat;
 				background-size: 120%;
 				margin: 0px;
@@ -48,10 +51,19 @@
 				display: block;
 			}
 			
+			.leftimg {
+				float:left; /* Выравнивание по левому краю */
+				margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
+			   }
+			.rightimg  {
+				float: right; /* Выравнивание по правому краю  */ 
+				margin: 7px 7px 7px 7px; /* Отступы вокруг картинки */
+			   }
+			   
 			@font-face {
 				font-family: Caveat-Bold; /* Гарнитура шрифта */
 				src: url("./Caveat-Bold.ttf"); /* Путь к файлу со шрифтом */
-			   }
+			   }			
 
 			#slideout {
 				width: 50px;
@@ -93,9 +105,9 @@
 			}
 			#slideout:hover #slideout_inner {
 				right: 0;
-			
 
 		</style>
+		
 		
 		
 	</head>

@@ -5,6 +5,7 @@
 	<head>
 		<title>Leprechaun</title>
 		<link rel="icon" href="images/faviconl.ico"><!-- 32×32 -->
+		
 		<style>
 			html, body { 
 				margin: 0px; 

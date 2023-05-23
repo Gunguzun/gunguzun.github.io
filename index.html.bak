@@ -27,7 +27,7 @@
 			}
 			
 			.footer{
-				background: url(images/f.png) no-repeat;
+				background: url(images/footer.png) no-repeat;
 				background-size: 120%;
 				margin: 0px;
 				padding: 0px;
@@ -173,7 +173,7 @@
 		
 
 		<div class="footer">
-			<img src="./images/f.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
+			<img src="./images/footer.png" style='height: 100%; width: 100%; object-fit: contain; display:block'></img>
 		</div>
 	</body>
 </html>
